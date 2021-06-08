@@ -17,4 +17,4 @@ application/logs/*
 /vendor/
 
 #codeigniter 4
-writeable/*
+writable/debugbar/*
