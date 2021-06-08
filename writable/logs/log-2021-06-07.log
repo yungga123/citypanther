@@ -1,0 +1,66 @@
+CRITICAL - 2021-06-07 10:19:52 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:21:27 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:21:28 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:22:35 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:22:46 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:24:33 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:24:34 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:24:34 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:26:45 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:26:53 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-07 10:27:02 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\citypanther\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\citypanther\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\citypanther\public\index.php(35): require('C:\\xampp\\htdocs...')
+#4 {main}
