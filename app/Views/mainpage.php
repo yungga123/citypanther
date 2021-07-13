@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
   <meta name="generator" content="Hugo 0.83.1">
-  <title>Carousel Template · Bootstrap v5.0</title>
+  <title><?php echo $title ?></title>
 
 
 
@@ -30,7 +30,8 @@
     }
   </style>
 
-
+  <!-- Site Icon -->
+  <link rel="icon" href="">
   <!-- Custom styles for this template -->
   <link href="<?php echo base_url('assets/carousel') ?>/carousel.css" rel="stylesheet">
 </head>
@@ -84,28 +85,26 @@
           </div>
         </div>
         <div class="carousel-item">
-          <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <img class="bd-placeholder-img" width="100%" height="100%" src="<?php echo base_url('assets/img/ptes.jpg') ?>" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
             <rect width="100%" height="100%" fill="#777" />
-          </svg>
 
           <div class="container">
-            <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Some representative placeholder content for the second slide of the carousel.</p>
-              <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+            <div class="carousel-caption text-start">
+              <h1>Pasima-Taloy Elementary School</h1>
+              <p>Some representative placeholder content for the first slide of the carousel.</p>
+              <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
             </div>
           </div>
         </div>
         <div class="carousel-item">
-          <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <img class="bd-placeholder-img" width="100%" height="100%" src="<?php echo base_url('assets/img/paagahan-poc.jpg') ?>" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
             <rect width="100%" height="100%" fill="#777" />
-          </svg>
 
           <div class="container">
-            <div class="carousel-caption text-end">
-              <h1>One more for good measure.</h1>
-              <p>Some representative placeholder content for the third slide of this carousel.</p>
-              <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+            <div class="carousel-caption text-start">
+              <h1>Paagahan Integrated National High School</h1>
+              <p>Some representative placeholder content for the first slide of the carousel.</p>
+              <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
             </div>
           </div>
         </div>
